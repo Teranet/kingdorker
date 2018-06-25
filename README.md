@@ -1,2 +1,2 @@
 # kingdorker
-simple first python script for downloading files from google using dorker.
+simple  python script for downloading files using google dorker.
